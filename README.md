@@ -52,3 +52,12 @@ To ensure the effectiveness of the recommendation system, we employed various ev
     ```
 
 Hope you guys liked it !!!!!!
+
+
+![HomeRecommendation](https://github.com/user-attachments/assets/f36ec8de-623e-435f-867d-5b2b2807d3a6)
+![home1](https://github.com/user-attachments/assets/f2b210d2-99fa-4b52-8fa6-329d29b60752)
+![Details](https://github.com/user-attachments/assets/81a454d1-bb71-490a-a1c5-897925d23ba6)
+![Director and Cast](https://github.com/user-attachments/assets/7c1f0d27-b145-4ac0-8637-f4747ad8c860)
+![BroseGenre](https://github.com/user-attachments/assets/007bc1c7-ab73-4aa2-8e41-466061c5934a)
+![Fiter Searchh](https://github.com/user-attachments/assets/d9638514-0445-4b11-95cd-ca4257737f34)
+![SearchByActor](https://github.com/user-attachments/assets/d14327cb-03b3-405d-9cc9-20a77860fe77)
