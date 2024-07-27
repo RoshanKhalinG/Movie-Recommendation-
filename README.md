@@ -40,7 +40,7 @@ To ensure the effectiveness of the recommendation system, we employed various ev
     - [tmdb_5000_movies.csv](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?select=tmdb_5000_movies.csv)
     - [tmdb_5000_credits.csv](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?select=tmdb_5000_credits.csv)    
 
-4. Downlod this file since it is bigger file so it cannot push in Github.
+4.  Download this file since it is a bigger file and cannot be pushed to Github:
     -https://drive.google.com/file/d/1C3MUxSPGP3xM1HVwVSFWi_2ZQ9t2TFH7/view?usp=drive_link
 
 
@@ -51,8 +51,8 @@ To ensure the effectiveness of the recommendation system, we employed various ev
     streamlit run app.py
     ```
 
-Hope you guys liked it !!!!!!
 
+Here are some outputs from our Movie Recommendation System:
 
 ![HomeRecommendation](https://github.com/user-attachments/assets/f36ec8de-623e-435f-867d-5b2b2807d3a6)
 ![home1](https://github.com/user-attachments/assets/f2b210d2-99fa-4b52-8fa6-329d29b60752)
