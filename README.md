@@ -52,7 +52,9 @@ To ensure the effectiveness of the recommendation system, we employed various ev
     ```
 
 
-Here are some outputs from our Movie Recommendation System:
+*** Here are some outputs from our Movie Recommendation System: ***
+
+
 
 ![HomeRecommendation](https://github.com/user-attachments/assets/f36ec8de-623e-435f-867d-5b2b2807d3a6)
 ![home1](https://github.com/user-attachments/assets/f2b210d2-99fa-4b52-8fa6-329d29b60752)
