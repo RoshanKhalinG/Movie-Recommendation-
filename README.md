@@ -40,8 +40,13 @@ To ensure the effectiveness of the recommendation system, we employed various ev
     - [tmdb_5000_movies.csv](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?select=tmdb_5000_movies.csv)
     - [tmdb_5000_credits.csv](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?select=tmdb_5000_credits.csv)    
 
+4. Downlod this file since it is bigger file so it cannot push in Github.
+    -https://drive.google.com/file/d/1C3MUxSPGP3xM1HVwVSFWi_2ZQ9t2TFH7/view?usp=drive_link
 
-4. Run the Streamlit app:
+
+    *** Download the datasets & file and place it in directory.
+
+5. Run the Streamlit app:
     ```sh
     streamlit run app.py
     ```
